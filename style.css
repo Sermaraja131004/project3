@@ -1,0 +1,32 @@
+
+.sec{
+    
+    color: aliceblue;
+ padding: 10px;
+ text-decoration: none;
+}
+nav{
+    float: right;
+}
+a{
+    color: rgb(21, 241, 39);
+    text-decoration: none;
+    font-weight: 30px;
+}
+.sec a:hover{
+    background-color: black;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.set{
+   margin-top: 10rem;
+}
+
+
+.items{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
